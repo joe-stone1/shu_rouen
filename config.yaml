@@ -14,12 +14,16 @@ permalinks:
   post: /:year/:month/:day/:slug/
 menu:
   main:
-    - name: About
+    - name: Summer School 2022
       url: /about/
+    - name: Resources
+      url: /resources/
+    - name: Schedule 
+      url: /schedule_a/
+    - name: Speakers
+      url: /speakers
     - name: GitHub
-      url: https://github.com/rstudio/blogdown
-    - name: Twitter
-      url: https://twitter.com/rstudio
+      url: https://github.com/joe-stone1/shu_rouen
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
@@ -33,9 +37,9 @@ params:
   highlightjsVersion: 9.12.0
   logo:
     alt: Logo
-    height: 50
+    height: 100
     url: logo.png
-    width: 50
+    width: 100
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
