@@ -11,19 +11,17 @@ ignoreFiles:
   - \.knit\.md$
   - \.utf8\.md$
 permalinks:
-  post: /:year/:month/:day/:slug/
+  post: /:slug/
 menu:
   main:
-    - name: Summer School 2022
+    - name: 1. Summer School 2022
       url: /about/
-    - name: Resources
+    - name: 2. Resources
       url: /resources/
-    - name: Schedule 
+    - name: 3. Schedule 
       url: /schedule_a/
-    - name: Speakers
-      url: /speakers
-    - name: GitHub
-      url: https://github.com/joe-stone1/shu_rouen
+    - name: 4. Speakers
+      url: /Speakers
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
