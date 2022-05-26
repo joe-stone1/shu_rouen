@@ -14,7 +14,7 @@ permalinks:
   post: /:slug/
 menu:
   main:
-    - name: 1. Summer School 2022
+    - name: 1. Overview
       url: /about/
     - name: 4. Resources
       url: /resources/
@@ -35,9 +35,9 @@ params:
   highlightjsVersion: 9.12.0
   logo:
     alt: Logo
-    height: 100
-    url: Logo_development_2.png
-    width: 100
+    height: 50
+    url: Logo_1.png
+    width: 50
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
