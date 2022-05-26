@@ -4,6 +4,7 @@ title: Speakers
 ---
 The 2022 summer school will have a series of talks and applied seminars delivered by:
 
+
 <img src="/./speakers_files/stone.jpeg" alt="Stone" width="25%"/>
 
 **Dr Joe Stone** 

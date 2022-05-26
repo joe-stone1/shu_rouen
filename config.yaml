@@ -16,11 +16,11 @@ menu:
   main:
     - name: 1. Summer School 2022
       url: /about/
-    - name: 2. Resources
+    - name: 4. Resources
       url: /resources/
     - name: 3. Schedule 
       url: /schedule_a/
-    - name: 4. Speakers
+    - name: 2. Speakers
       url: /Speakers
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
@@ -36,7 +36,7 @@ params:
   logo:
     alt: Logo
     height: 100
-    url: logo.png
+    url: Logo_development_2.png
     width: 100
 markup:
   defaultMarkdownHandler: goldmark
