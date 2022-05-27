@@ -9,7 +9,7 @@ title: Summer School 2022
 
 The school brings together Sheffield Hallam and Rouen University students to work in small teams to solve applied sport science problems. The 2022 summer school has a focus on Womens' Professional Football Teams. 
 
-Each student group will adopt the role of the coaching team for a professional English women’s team using a range of data sources. The groups will evaluate and define a performance related problem and seek to develop intervention strategies.
+Each student group will adopt the role of the coaching and sport science team for a professional English woman's team.Your group will evaluate and define a performance related problem and seek to develop intervention strategies using a range of data sources to support your plan.
 
 *Aims and objectives of the Summer School* 
 
