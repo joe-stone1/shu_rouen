@@ -1,9 +1,10 @@
 ---
 date: "2022-05-05T21:48:51-07:00"
-title: Speakers 
+title: Staff 
 ---
-The 2022 summer school will have a series of talks and applied seminars delivered by:
+The 2022 summer school is hosted by a series of staff who will deliver applied seminars and workshops, while also being available during group working session. 
 
+The staff include:
 
 <img src="/./speakers_files/stone.jpeg" alt="Stone" width="25%"/>
 
@@ -14,6 +15,9 @@ The 2022 summer school will have a series of talks and applied seminars delivere
 
 **Dr Laura Carey** 
 
+<img src="/./speakers_files/strafford.jpeg" alt="strafford" width="25%"/>
+
+**Dr Ben Strafford**
 
 <img src="/./speakers_files/davids.jpeg" alt="Davids" width="25%"/>
 
@@ -29,8 +33,6 @@ The 2022 summer school will have a series of talks and applied seminars delivere
 
 **Professor Ludovic Seifert**
 
-<img src="/./speakers_files/strafford.jpeg" alt="strafford" width="25%"/>
 
-**Dr Ben Strafford**
 
 

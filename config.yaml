@@ -20,7 +20,7 @@ menu:
       url: /resources/
     - name: 3. Schedule 
       url: /schedule_a/
-    - name: 2. Speakers
+    - name: 2. Staff
       url: /Speakers
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
