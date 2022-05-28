@@ -8,10 +8,9 @@ The staff include:
 
 <img src="/./speakers_files/stone.jpeg" alt="Stone" width="25%"/>
 
-**Dr Joe Stone** 
+[**Dr Joe Stone**](https://www.shu.ac.uk/about-us/our-people/staff-profiles/joseph-stone)
 
-
-<img src="/./speakers_files/carey.jpeg" alt="Carey" width="25%"/>
+<img src="/./speakers_files/carey.jpeg" alt="carey" width="25%"/>
 
 **Dr Laura Carey** 
 

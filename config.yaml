@@ -16,12 +16,14 @@ menu:
   main:
     - name: 1. Overview
       url: /about/
-    - name: 4. Resources
-      url: /resources/
+    - name: 4. Data
+      url: /Data/
     - name: 3. Schedule 
       url: /schedule_a/
     - name: 2. Staff
       url: /Speakers
+    - name: 5. Slides
+      url: /Slides
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
