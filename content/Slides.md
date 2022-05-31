@@ -9,4 +9,6 @@ The slides from each session will be available to download here:
 
 [![Image name](/./slides/davids.png)](/./slides/Davids_mon_2pm.pdf)
 
+[![Image name](/./slides/lc_tues.png)](/./slides/lc_tues.pdf)
+
 [![Image name](/./slides/bs_tues.png)](/./slides/bs_tues_am.pdf)
