@@ -24,7 +24,9 @@ menu:
       url: /Speakers
     - name: 5. Slides
       url: /Slides
-    - name: 6. Pictures
+    - name: 6. Student Work
+      url: /Student Work
+    - name: 7. Pictures
       url: /pictures
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
