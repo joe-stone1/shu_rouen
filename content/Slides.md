@@ -1,18 +1,36 @@
 ---
 date: "2022-05-05T21:48:51-07:00"
-title: Slides
+title: Presentations
 ---
 
 The slides from each session will be available to download here:
 
+**Monday 9am-Dr Joe Stone**
+
+*Winter School Introduction*
+
 [![Image name](/./slides/js_mon_9.png)](/./slides/js_mon_9_web.pdf)
 
-[![Image name](/./slides/davids.png)](/./slides/Davids_mon_2pm.pdf)
+**Tuesday 9am- Sam Hydes**
 
-[![Image name](/./slides/lc_tues.png)](/./slides/lc_tues.pdf)
+Coming Soon: *DoM Introduction and Practical Consideration*
 
-[![Image name](/./slides/bs_tues.png)](/./slides/bs_tues_am.pdf)
+**Tuesday 2pm- Dr Anna Fitpatrik**
 
-[![Image name](/./slides/Tues_pm.png)](/./slides/Tues_pm.pdf)
+Coming Soon: *Constraints based coaching*
 
+**Wednesday 9am- Jen Hobson**
 
+Coming Soon: *Psychology in a Department of Methodology*
+
+**Wednesday 2pm- Marianne Davies**
+
+Coming Soon: *TBC*
+
+**Thursday 9am: Prof Jon Wheat**
+
+Coming Soon: *Movement Variability*
+
+**Thursday 2pm: Dr. Ben Strafford**
+
+Coming Soon: *ASM & Donor Sports*
