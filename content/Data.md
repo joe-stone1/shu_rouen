@@ -10,6 +10,10 @@ The winter school 2023 will use a range of data.
 Access statsbomb's open data here:
 [![Image name](/./resources_files/Statsbomb_Logo.jpeg)](https://statsbomb.com/what-we-do/hub/free-data/)
 
+Helpful gudie to start using Statsbomb data can be found here:
+
+[![Image name](/./resources_files/Statsbomb_intro.png)](http://statsbomb.com/wp-content/uploads/2019/12/Using-StatsBomb-Data-In-R.pdf)
+
 **R and Rstudio**
  
 To access the statsbomb database, you need to use R-Studio.You can get started with [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/) by completing this tutorial (includes videos):
@@ -26,4 +30,4 @@ RStudio's introductory primers. You'll do these in your browser and type code an
 	- [Isolating Data with dplyr](https://rstudio.cloud/learn/primers/2.2)
 	- [Deriving Information with dplyr](https://rstudio.cloud/learn/primers/2.3)
 	
-Access to further data, including video footage with be provided via a specific google drive folder and also at [Joe Stone Git Hub](https://github.com/joe-stone1/shu_rouen)
+Access to further data, including video footage will be provided direclty by Joe
