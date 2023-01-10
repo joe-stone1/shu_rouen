@@ -4,7 +4,12 @@ title: Pictures
 ---
 **Winter School 2023**
 
-Pictures Coming Soon
+<img src="/./pic/sam_1.jpg" alt="Pic1" width="50%"/>
+<img src="/./pic/sam_2.jpg" alt="Pic1" width="50%"/>
+<img src="/./pic/sam_4.jpg" alt="Pic1" width="50%"/>
+<img src="/./pic/sam_5.jpg" alt="Pic1" width="50%"/>
+<img src="/./pic/sam_6.jpg" alt="Pic1" width="50%"/>
+
 
 **Summer School 2022**
 
