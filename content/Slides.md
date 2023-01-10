@@ -5,6 +5,10 @@ title: Presentations
 
 The slides from each session will be available to download here:
 
+**Project Template**
+
+[![Image name](/./slides/presentation_gudie.png)](/./slides/Presention_gudie.pptx)
+
 **Monday 9am-Dr Joe Stone**
 
 *Winter School Introduction*
