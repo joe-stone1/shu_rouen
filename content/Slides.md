@@ -15,6 +15,8 @@ The slides from each session will be available to download here:
 
 Coming Soon: *DoM Introduction and Practical Consideration*
 
+[![Image name](/./slides/DoM_pic.png)](/./slides/DoM.pdf)
+
 **Tuesday 2pm- Dr Anna Fitpatrik**
 
 Coming Soon: *Constraints based coaching*
