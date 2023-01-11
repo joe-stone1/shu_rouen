@@ -9,6 +9,12 @@ title: Pictures
 <img src="/./pic/sam_4.jpg" alt="Pic1" width="50%"/>
 <img src="/./pic/sam_5.jpg" alt="Pic1" width="50%"/>
 <img src="/./pic/sam_6.jpg" alt="Pic1" width="50%"/>
+<img src="/./pic/anna_1.jpg" alt="Pic1" width="50%"/>
+<img src="/./pic/anna_2.jpg" alt="Pic1" width="50%"/>
+<img src="/./pic/anna_3.jpg" alt="Pic1" width="50%"/>
+<img src="/./pic/anna_4.jpg" alt="Pic1" width="50%"/>
+<img src="/./pic/anna_5.jpg" alt="Pic1" width="50%"/>
+<img src="/./pic/jen_1.jpg" alt="Pic1" width="50%"/>
 
 
 **Summer School 2022**
