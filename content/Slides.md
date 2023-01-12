@@ -17,13 +17,15 @@ The slides from each session will be available to download here:
 
 **Tuesday 9am- Sam Hydes**
 
-Coming Soon: *DoM Introduction and Practical Consideration*
+*DoM Introduction and Practical Consideration*
 
 [![Image name](/./slides/DoM_pic.png)](/./slides/DoM.pdf)
 
 **Tuesday 2pm- Dr Anna Fitpatrik**
 
-Coming Soon: *Constraints based coaching*
+*Constraints based coaching*
+
+[![Image name](/./slides/anna.png)](/./slides/anna.pptx)
 
 **Wednesday 9am- Jen Hobson**
 
