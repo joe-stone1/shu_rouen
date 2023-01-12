@@ -21,7 +21,7 @@ The slides from each session will be available to download here:
 
 [![Image name](/./slides/DoM_pic.png)](/./slides/DoM.pdf)
 
-**Tuesday 2pm- Dr Anna Fitpatrik**
+**Tuesday 2pm- Dr Anna Fitpatrick**
 
 *Constraints based coaching*
 
