@@ -41,4 +41,6 @@ The slides from each session will be available to download here:
 
 **Thursday 2pm: Dr. Ben Strafford**
 
-Coming Soon: *ASM & Donor Sports*
+*ASM & Donor Sports*
+
+[![Image name](/./slides/ben.png)](/./slides/ben.pdf)
