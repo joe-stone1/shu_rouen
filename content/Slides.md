@@ -25,19 +25,19 @@ The slides from each session will be available to download here:
 
 *Constraints based coaching*
 
-[![Image name](/./slides/anna.png)](/./slides/anna.pptx)
+[![Image name](/./slides/anna.png)](/./slides/anna.pdf)
 
 **Wednesday 9am- Jen Hobson**
 
-Coming Soon: *Psychology in a Department of Methodology*
+*Psychology in a Department of Methodology*
 
-**Wednesday 2pm- Marianne Davies**
-
-Coming Soon: *TBC*
+[![Image name](/./slides/jen.png)](/./slides/jen.pdf)
 
 **Thursday 9am: Prof Jon Wheat**
 
-Coming Soon: *Movement Variability*
+*Movement Variability*
+
+[![Image name](/./slides/jon.png)](/./slides/jon.pdf)
 
 **Thursday 2pm: Dr. Ben Strafford**
 
