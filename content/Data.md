@@ -3,7 +3,9 @@ date: "2022-05-05T21:48:51-07:00"
 title: Data
 ---
 
-The winter school 2023 will use a range of data.
+This page is currently under development and will be updated prior to the school starting.
+
+The winter school 2024 will use a range of data.  
 
 ![Data Sources](/./resources_files/data.png)
 

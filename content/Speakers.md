@@ -2,7 +2,7 @@
 date: "2022-05-05T21:48:51-07:00"
 title: Staff 
 ---
-The 2023 winter school is hosted by a series of staff who will deliver applied seminars and workshops, while also being available during group working session. 
+The 2024 winter school is hosted by a series of staff who will deliver applied seminars and workshops, while also being available during group working session. 
 
 The staff include:
 
