@@ -3,6 +3,7 @@ date: "2016-05-05T21:48:51-07:00"
 title: Winter School 2023
 ---
 
+NEW
 **Department of Methodology in Sport Performance**  
 
 *Introduction and Overview of the School*  
