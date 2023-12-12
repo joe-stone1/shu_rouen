@@ -3,14 +3,13 @@ date: "2016-05-05T21:48:51-07:00"
 title: Winter School 2023
 ---
 
-NEW
 **Department of Methodology in Sport Performance**  
 
 *Introduction and Overview of the School*  
 
-The school brings together Sheffield Hallam and Rouen University students to work in small teams to solve applied sport science problems. The 2023 winter school has a focus on Womens' Professional Football Teams. 
+The school brings together Sheffield Hallam and Rouen University students to work in small teams to solve applied sport science problems. The 2024 winter school has a focus on Womens' Professional Football Teams. 
 
-Each student group will adopt the role of the coaching and sport science team for an international woman's team.Your group will evaluate and define a performance related problem and seek to develop intervention strategies using a range of data sources to support your plan.
+Each student group will adopt the role of the coaching and sport science team for an international woman's football team.Your group will evaluate and define a performance related problem and seek to develop intervention strategies using a range of data sources to support your plan.
 
 *Aims and objectives of the Winter School* 
 
