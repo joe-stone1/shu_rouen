@@ -28,6 +28,12 @@ The staff include:
 **Professor Ludovic Seifert**
 
 
+<img src="/./speakers_files/dfpic.jpg" alt="David" width="25%"/>
+
+**David Farrokh**
+
+
+
 
 
 
