@@ -3,8 +3,6 @@ date: "2022-05-05T21:48:51-07:00"
 title: Data
 ---
 
-This page is currently under development and will be updated prior to the school starting.
-
 The winter school 2024 will use a range of data.  
 
 ![Data Sources](/./resources_files/data.png)
@@ -12,9 +10,11 @@ The winter school 2024 will use a range of data.
 Access statsbomb's open data here:
 [![Image name](/./resources_files/Statsbomb_Logo.jpeg)](https://statsbomb.com/what-we-do/hub/free-data/)
 
-Helpful gudie to start using Statsbomb data can be found here:
+Helpful guide to start using Statsbomb data can be found here:
 
 [![Image name](/./resources_files/Statsbomb_intro.png)](http://statsbomb.com/wp-content/uploads/2019/12/Using-StatsBomb-Data-In-R.pdf)
+
+Joe will present further of accessing thos data during the winter school. 
 
 **R and Rstudio**
  
@@ -22,14 +22,4 @@ To access the statsbomb database, you need to use R-Studio.You can get started w
 
 * [Getting started with R and RStudio interactive tutorial](http://milton-the-cat.rocks/learnr/r/r_getting_started/)
 
-RStudio's introductory primers. You'll do these in your browser and type code and see results there.
-
-- **The Basics**
-	- [Visualization Basics](https://rstudio.cloud/learn/primers/1.1)
-	- [Programming Basics](https://rstudio.cloud/learn/primers/1.2)
-- **Work with Data**
-	- [Working with Tibbles](https://rstudio.cloud/learn/primers/2.1)
-	- [Isolating Data with dplyr](https://rstudio.cloud/learn/primers/2.2)
-	- [Deriving Information with dplyr](https://rstudio.cloud/learn/primers/2.3)
-	
-Access to further data, including video footage will be provided direclty by Joe
+Access to further data, including video footage will be provided directly by Joe
