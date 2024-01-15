@@ -17,3 +17,7 @@ Session 1 Recording (https://shu.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c
 Session 2: Jen Hobson
 [![Image name](/./slides/jen.png)](/./slides/Jen.pdf)
 
+Session 3: Sam Hydes 
+[![Image name](/./slides/dom.png)](/./slides/DoM_winter_school.pdf)
+Jamboard (https://jamboard.google.com/d/15YjY7_SHO4dXoYF4X6ENLAYbRYU0y3YLWYhP02g6RjQ/edit?usp=sharing) 
+
