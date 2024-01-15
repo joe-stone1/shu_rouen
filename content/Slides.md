@@ -19,9 +19,7 @@ Session 2: Jen Hobson
 
 Session 3: Sam Hydes 
 [![Image name](/./slides/dom.png)](/./slides/DoM_winter_school.pdf)
-<<<<<<< HEAD
 
 Session 4: Joe Corner Example  
 [![Image name](/./slides/womens.png)](/./slides/Womens_corners.pptx)
-=======
->>>>>>> 32b8c44092bd07e874c4a1a6b876a6c957de8438
+
